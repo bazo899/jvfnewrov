@@ -27,7 +27,7 @@ var mo =hayv-m;
 var so =sal-y;
 //<!-- to de hnda rojen di bia jnda sal -->
 var rojen=M[e]-dod;
-var hayven=12-mo;
+var hayven=11-mo;
 var salen=so+1;
 
 var hev=(so*12)+mo; 
